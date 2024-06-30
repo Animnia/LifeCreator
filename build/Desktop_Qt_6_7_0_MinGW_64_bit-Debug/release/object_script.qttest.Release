@@ -1,0 +1,11 @@
+release/GameFile.o
+release/GameLogic.o
+release/SettingWindow.o
+release/StartWindow.o
+release/WarnWindow.o
+release/main.o
+release/mainwindow.o
+release/moc_SettingWindow.o
+release/moc_StartWindow.o
+release/moc_WarnWindow.o
+release/moc_mainwindow.o

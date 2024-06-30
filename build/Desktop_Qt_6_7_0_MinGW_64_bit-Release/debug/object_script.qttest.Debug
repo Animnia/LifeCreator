@@ -1,0 +1,11 @@
+debug/GameFile.o
+debug/GameLogic.o
+debug/SettingWindow.o
+debug/StartWindow.o
+debug/WarnWindow.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_SettingWindow.o
+debug/moc_StartWindow.o
+debug/moc_WarnWindow.o
+debug/moc_mainwindow.o
